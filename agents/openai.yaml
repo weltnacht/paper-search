@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Search"
+  short_description: "Search papers and summarize verified results."
+  default_prompt: "Use $paper-search to find and summarize papers on a research topic in a compact table."
